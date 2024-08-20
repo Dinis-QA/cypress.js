@@ -1,0 +1,9 @@
+{
+    "email":":nth-child(1) > .auth__input",
+    "password":"#password",
+    "button":".auth__button",
+    "title":".pokemon__title",
+    "id_trainers":".header__container > .header__id" 
+
+    
+  }
